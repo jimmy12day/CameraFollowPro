@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//Bin Wei, 12/21/2017
+using UnityEngine;
 
 public class CameraFollowLateUpdate : MonoBehaviour
 {
